@@ -3,6 +3,8 @@
 
 This is a simple web application that allows users to input their favorite music, and upon submission, they receive a music recommendation letter from someone else. The purpose of this tool is to let users share and explore music tastes in a fun, interactive way.
 
+![image](https://github.com/Raytengo/Music-Letter/blob/main/img/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-03-13%20001654.png)
+![image](https://github.com/Raytengo/Music-Letter/blob/main/img/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-03-13%20001639.png)
 ## Features
 
 - **Input Music Information**: Users can enter their name, origin, favorite song, and artist.
